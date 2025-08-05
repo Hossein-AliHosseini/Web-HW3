@@ -1,0 +1,6 @@
+com/loupiart/repository/UserRepository.class
+com/loupiart/model/Drawing.class
+com/loupiart/DrawBackendApplication.class
+com/loupiart/model/User.class
+com/loupiart/repository/DrawingRepository.class
+com/loupiart/controller/DrawingController.class

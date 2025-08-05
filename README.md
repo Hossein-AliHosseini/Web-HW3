@@ -94,8 +94,7 @@ curl http://localhost:8080/api/drawing?ali
   - GET `/api/drawing?{username}`: دریافت نقاشی براساس نام کاربری
 - همه داده‌های اولیه در `schema.sql` و `data.sql` موجود است.
 
-
+---
 ## استفاده از هوش مصنوعی
 
 برای Init. کردن اولیه پروژه از ChatGPT و سایت [Spring Initializr](https://start.spring.io/) استفاده شده و اسم `Loupi` و `LoupiArt` به همین دلیل در پروژه وجود دارند.
----

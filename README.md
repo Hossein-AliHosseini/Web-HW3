@@ -96,5 +96,6 @@ curl http://localhost:8080/api/drawing?ali
 
 
 ## استفاده از هوش مصنوعی
+
 برای Init. کردن اولیه پروژه از ChatGPT و سایت [Spring Initializr](https://start.spring.io/) استفاده شده و اسم `Loupi` و `LoupiArt` به همین دلیل در پروژه وجود دارند.
 ---
